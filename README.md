@@ -1,3 +1,10 @@
-# My Awesome Book
+# MIS使用手册
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+---
+
+> 管理信息系统（Management Information System，简称MIS）
+
+
+
+
+
